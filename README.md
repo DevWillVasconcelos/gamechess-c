@@ -119,4 +119,5 @@ O tabuleiro usa o sistema padrão do xadrez:
 |-------|--------|
 | ✅ Xeque | Impede movimentos que deixem o rei vulnerável |
 | ⚠️ Xeque-mate | Ainda não detectado automaticamente |
-| ⚠️ Ro
+| ⚠️ Roque | Ainda não implementado |
+
