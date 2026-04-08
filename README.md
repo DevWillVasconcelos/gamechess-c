@@ -1,11 +1,5 @@
-Aqui está o README atualizado com as informações que você forneceu, organizadas de forma clara e profissional:
-
 ```markdown
 # ♜ Chess in C - Xadrez no Terminal
-
-[![Linguagem](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-green.svg)](LICENSE)
-[![Plataforma](https://img.shields.io/badge/Plataforma-Cross--platform-blue)]()
 
 Um jogo de xadrez completo implementado em C puro, rodando inteiramente no terminal com interface ASCII. Perfeito para aprender conceitos de programação, algoritmos de jogos e regras do xadrez.
 
