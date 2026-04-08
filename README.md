@@ -36,40 +36,6 @@ Aqui está o README atualizado com as informações que você forneceu, organiza
 
 Um jogo de xadrez completo implementado em C puro, rodando inteiramente no terminal com interface ASCII. Perfeito para aprender conceitos de programação, algoritmos de jogos e regras do xadrez.
 
-## ✨ Características
-
-- 🎮 **Interface gráfica no terminal** - Tabuleiro desenhado com caracteres ASCII
-- ♟️ **Todas as peças implementadas** - Rei, Rainha, Torre, Bispo, Cavalo e Peão
-- ✅ **Validação completa de movimentos** - Respeita todas as regras do xadrez
-- 🛡️ **Sistema de xeque** - Impede movimentos que deixariam o próprio rei em xeque
-- 🔄 **Alternância de turnos** - Sistema de jogadas entre Brancas e Pretas
-- 🎯 **Movimentos especiais** - Primeiro movimento do peão (duas casas) e captura diagonal
-- 🧹 **Limpeza automática da tela** - Interface limpa a cada jogada
-
-## 🚀 Como Executar
-
-### Pré-requisitos
-
-- Compilador GCC (ou qualquer compilador C)
-- Terminal com suporte a ANSI (Linux/Mac) ou CMD/PowerShell (Windows)
-
-### Compilação
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/chess-in-c.git
-
-# Entre no diretório
-cd chess-in-c
-
-# Compile o jogo
-gcc xadrez.c -o xadrez
-
-# Execute
-./xadrez     # Linux/Mac
-xadrez.exe   # Windows
-```
-
 ## 🎮 Como Jogar
 
 ### Comandos Básicos
