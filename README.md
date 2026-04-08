@@ -41,8 +41,8 @@ gcc xadrez.c -o xadrez
 ./xadrez     # Linux/Mac
 xadrez.exe   # Windows
 
-Comandos Básicos
-text
+### Comandos Básicos
+
 e2 e4    - Move a peça da posição e2 para e4
 sair     - Encerra o jogo
 Sistema de Coordenadas
@@ -52,7 +52,6 @@ Colunas: letras de 'a' a 'h' (da esquerda para direita)
 
 Linhas: números de 1 a 8 (de baixo para cima)
 
-text
   +---+---+---+---+---+---+---+---+
 8 | r | n | b | q | k | b | n | r |
   +---+---+---+---+---+---+---+---+
@@ -71,7 +70,8 @@ text
 1 | R | N | B | Q | K | B | N | R |
   +---+---+---+---+---+---+---+---+
     a   b   c   d   e   f   g   h
-Legenda das Peças
+
+### Legenda das Peças
 Peça	Branca	Preta
 Rei	K	k
 Rainha	Q	q
